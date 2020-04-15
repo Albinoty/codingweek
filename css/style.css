@@ -1,0 +1,39 @@
+.intro{
+
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+#drapeau{
+
+    float:left;
+
+}
+
+.navbar{
+
+    background-color:rgb(255,84,84);
+    font-size:20px;
+
+}
+
+.fond{
+
+    background-color:rgb(245,245,245);
+    margin-left:0;
+    margin-right:0;
+
+}
+
+.rediriction{
+
+    color:rgb(100,100,250);
+    text-decoration: none;
+
+}
+.rediriction:hover{
+
+    color:black;
+    text-decoration: underline;
+
+}
